@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "[yaml]": {
+      "editor.formatOnSave": false
+    },
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+    }
+  }
